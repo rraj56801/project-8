@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <!-- Options for the List Preference -->
+    <string-array name="settings_search_by_news_label">
+        <item>@string/settings_news_label</item>
+        <item>@string/settings_search_by_training</item>
+        <item>@string/settings_search_by_teaching</item>
+        <item>@string/settings_search_by_courses</item>
+        <item>@string/settings_search_by_subjects</item>
+        <item>@string/settings_search_by_schools</item>
+        <item>@string/settings_search_by_universities</item>
+        <item>@string/settings_search_by_scholarships</item>
+    </string-array>
+    <string name="no_news">No news found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Education News Settings</string>
+    <string name="settings_news_label">Education</string>
+    <string name="settings_search_by_key_list_preference" translatable="false">Search By Option</string>
+    <string name="settings_search_by_key" translatable="false">Search By</string>
+    <string name="settings_search_by_default" translatable="false">Education</string>
+    <string name="settings_search_by_courses" translatable="false">Courses</string>
+    <string name="settings_search_by_subjects" translatable="false">Subjects</string>
+    <string name="settings_search_by_schools" translatable="false">Schools</string>
+    <string name="settings_search_by_universities" translatable="false">Universities</string>
+    <string name="settings_search_by_scholarships" translatable="false">Scholarships</string>
+    <string name="settings_search_by_training" translatable="false">Training</string>
+    <string name="settings_search_by_teaching" translatable="false">Teaching</string>
+
+</resources>
